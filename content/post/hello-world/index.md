@@ -11,7 +11,7 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-This is a test post.
+This is a test post. Retry the settings.
 
 For more information about this theme, check the documentation: https://stack.jimmycai.com/
 
